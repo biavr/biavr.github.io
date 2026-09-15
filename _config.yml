@@ -23,7 +23,7 @@ repository               : "biavr/biavr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Bianca-Veronica Avram"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student | Autonomous Driving Research"
