@@ -1,152 +1,124 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Bianca-Veronica Avram",
+    "label": "PhD Student | Autonomous Driving Research",
+    "email": "veronica.avram@campus.utcluj.ro",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://biavr.github.io",
+    "summary": "PhD student in computer science and automotive software engineer focusing on autonomous driving perception, 3D occupancy reasoning, and trajectory planning.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Cluj-Napoca",
+      "countryCode": "RO",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?hl=en&user=_lSAAeIAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "biavr",
+        "url": "https://github.com/biavr"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Technical University of Cluj-Napoca",
+      "position": "PhD Researcher",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Autonomous driving research on perception, occupancy reasoning, and trajectory planning.",
+      "highlights": [
+        "3D occupancy and environment understanding for autonomous driving systems",
+        "Risk-aware and uncertainty-aware trajectory planning",
+        "Benchmarking with NavSim and related real-world closed-loop evaluation methods"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Technical University of Cluj-Napoca",
+      "area": "PhD Student in Computer Science",
+      "studyType": "Research doctorate",
+      "startDate": "2024",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Research areas",
+      "keywords": [
+        "3D Occupancy Perception",
+        "Autonomous Driving",
+        "Trajectory Planning",
+        "Decision Making Under Uncertainty",
+        "Risk-Aware Planning",
+        "Closed-Loop Evaluation"
+      ]
+    },
+    {
+      "name": "Tools and methods",
+      "keywords": [
+        "NavSim",
+        "Perception-Planning Integration",
+        "Autonomous Vehicle Software",
+        "Python",
+        "Algorithm Design",
+        "Experimental Evaluation"
+      ]
+    }
+  ],
+  "languages": [
+    "Romanian",
+    "English"
+  ],
+  "interests": [
+    "Autonomous driving perception",
+    "3D occupancy reasoning",
+    "Planning under uncertainty",
+    "Real-world safety-aware autonomous systems"
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Freespace and Optical Flow Fusion for Generic Contours Accumulation",
+      "publisher": "IEEE",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Co-authored IEEE publication in the broader area of intelligent systems, perception, and autonomous driving research."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Paper Title Number 5",
+      "publisher": "Conference publication",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Conference paper covering research work in perception and autonomous systems."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Autonomous Driving Research Seminar",
+      "event": "Technical University of Cluj-Napoca",
+      "date": "2024",
+      "location": "Cluj-Napoca, Romania",
+      "description": "Research discussion on 3D occupancy understanding and planning for autonomous systems."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Research and technical software work",
+      "institution": "Technical University of Cluj-Napoca",
+      "date": "2024",
+      "role": "Graduate research work",
+      "description": "Focused technical and research-oriented work in autonomous systems and software engineering."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
