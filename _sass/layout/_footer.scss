@@ -32,11 +32,11 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 1em;
-    max-width: 100%;
+    max-width: 980px;
     padding: 0 1em 1em;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: 980px;
     }
   }
 
@@ -68,9 +68,14 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  max-width: 980px;
+  margin: 0 auto;
 }
 
 .page__footer-follow {
+  max-width: 980px;
+  margin: 0 auto;
+
   ul {
     margin: 0;
     padding: 0;
